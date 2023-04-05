@@ -1,0 +1,4 @@
+blockbreak:
+  DIAMOND_ORE: 10
+message: %player% ha minado %number% bloques de %type%
+color: RED

@@ -1,0 +1,11 @@
+name: XAdministrator
+version: '${project.version}'
+main: com.github.k3itherino.vanik.admin.xadministrator.XAdministrator
+api-version: 1.19
+description: Admin utils for Vanik
+commands:
+  administrador:
+    description: Toggles menu for admins
+    usage: /administrador
+    permission: administrator
+    permission-message: No tienes acceso a este comando, si quieres ser mod contactanos en el discord
