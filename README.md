@@ -1,6 +1,6 @@
 # AdminUtils
 Plugin project, this plugins helps you track how many blocks
-### In block break you write the name of the block you want to be tracked, it has to be the java enum name, and the value will be the number of times it's broken before it notifies the admins.
+### Instalation
 ```
 blockbreak:
   DIAMOND_ORE: 10
